@@ -2,6 +2,23 @@
 
 Powered by Hugo.
 
+## Usage
+
+### Production
+
+```
+$ hugo -d docs
+$ git add *
+$ git commit -m 'docs: update'
+$ git push origin master
+```
+
+### Development
+
+```
+$ hugo server
+```
+
 ## Using Learn Theme
 
 * https://themes.gohugo.io/hugo-theme-learn/
