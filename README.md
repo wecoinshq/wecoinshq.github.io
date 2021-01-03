@@ -19,11 +19,13 @@ $ git push origin master
 $ hugo server
 ```
 
-## Using Learn Theme
+## Themes
+
+### Theme: Learn
 
 * https://themes.gohugo.io/hugo-theme-learn/
 * https://github.com/matcornic/hugo-theme-learn
 
-## Themes List
+### Themes List
 
 * https://hugo-theme-ranking.oika.me/
