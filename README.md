@@ -1,4 +1,4 @@
-# WeCrypt Website
+# WeCoins Website
 
 Powered by Hugo.
 

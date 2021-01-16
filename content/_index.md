@@ -1,4 +1,4 @@
-# WeCrypt
+# WeCoins
 
 Code and APIs to make crypto currency easier.
 
@@ -18,4 +18,4 @@ WeCrypt provides a HTTP-RPC API that supports all rippled functions.
 
 Runs locally or as an AWS Lambda function.
 
-Code: https://github.com/wecrypt/ripple-api
+Code: https://github.com/wecoinshq/ripple-api
