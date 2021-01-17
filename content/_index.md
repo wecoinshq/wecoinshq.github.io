@@ -8,7 +8,7 @@ The [rippled server](https://github.com/ripple/rippled) comes with a variety of 
 
 The [github.com/ripple/ripple-rest](https://github.com/ripple/ripple-rest) project is frozen with a recommendation to migrate to a JavaScript / TypeScript library [github.com/ripple/ripple-lib](https://github.com/ripple/ripple-lib) (aka RippleAPI).
 
-WeCrypt provides a HTTP-RPC API that supports all rippled functions.
+WeCoins provides a HTTP-RPC API that supports all rippled functions.
 
 ### Hosted REST-like HTTP API Proxy
 
@@ -19,3 +19,7 @@ WeCrypt provides a HTTP-RPC API that supports all rippled functions.
 Runs locally or as an AWS Lambda function.
 
 Code: https://github.com/wecoinshq/ripple-api
+
+## Open Source
+
+WeCoins supports open source and our code is availble at https://github.com/wecoinshq.
