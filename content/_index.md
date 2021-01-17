@@ -22,4 +22,4 @@ Code: https://github.com/wecoinshq/ripple-api
 
 ## Open Source
 
-WeCoins supports open source and our code is availble at https://github.com/wecoinshq.
+WeCoins supports open source and our code is availble on GitHub at [https://github.com/wecoinshq](https://github.com/wecoinshq).
